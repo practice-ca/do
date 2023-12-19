@@ -1,2 +1,2 @@
 hello world
-aaa
+練習で修正しました。
